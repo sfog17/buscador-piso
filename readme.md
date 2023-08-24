@@ -24,7 +24,7 @@ Dependencies are listed in [requirements.txt](requirements.txt).
 Can be run with
 
 ```bash
-$ python3 -m venv myenv
+$ python3 -m venv .venv
 $ source myenv/bin/activate
 $ pip install -r requirements.tx
 ```
