@@ -14,14 +14,17 @@ to another service
 
 ## Requirements
 
-Tested with Python 3.8 on Ubuntu.
+Tested with:
+
+- Ubuntu 20.04.6 LT
+- Python 3.8.10
 
 Dependencies are listed in [requirements.txt](requirements.txt).
 
 Can be run with
 
 ```bash
-$ python -m venv myenv
+$ python3 -m venv myenv
 $ source myenv/bin/activate
 $ pip install -r requirements.tx
 ```
